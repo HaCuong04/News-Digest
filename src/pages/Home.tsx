@@ -168,7 +168,7 @@ export function Home() {
                 <h2 className="text-2xl font-black text-gray-900 tracking-tight">{category} News</h2>
                 <div className="flex gap-4 text-sm font-bold text-gray-400">
                   <button className="text-blue-600 border-b-2 border-blue-600 pb-4 -mb-4">Newest</button>
-                  <button className="hover:text-gray-900 transition-colors">Popular</button>
+                  {/* <button className="hover:text-gray-900 transition-colors">Popular</button> */}
                 </div>
               </div>
 

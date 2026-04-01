@@ -6,6 +6,7 @@ import { cn } from "@/src/lib/utils";
 import { useAuth } from "@/src/lib/AuthContext";
 
 const categories = [
+  "Latest",
   "Technology",
   "Health",
   "Construction",
